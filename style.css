@@ -1,0 +1,28 @@
+textarea {
+	width: 50%;
+	height: 100%;
+
+	padding: 10px;
+
+	border: none;
+	color: #111111;
+	font-size: 13px;
+	resize: none;
+}
+
+#input {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+
+	background-color: #7FDBFF;
+}
+
+#output {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+
+	background-color: #39CCCC;
+	text-transform: uppercase;
+}
